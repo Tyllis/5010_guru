@@ -1,0 +1,9 @@
+.ipynb_checkpoints/
+.streamlit/
+.idea/
+.ipynb_checkpoints/
+data/
+venv/
+build_index.ipynb
+testing.py
+
