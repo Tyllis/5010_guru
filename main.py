@@ -10,6 +10,7 @@ logging.basicConfig(format="\n%(asctime)s\n%(message)s", level=logging.INFO, for
 
 # Define functions
 def get_index():
+    # note
     os.environ['OPENAI_API_KEY'] = st.secrets["openai_api"]
     # llm_predictor = LLMPredictor(llm=OpenAI(temperature=0, model_name="text-davinci-003"))
     # index = GPTSimpleVectorIndex.load_from_disk('index.json', llm_predictor=llm_predictor)
