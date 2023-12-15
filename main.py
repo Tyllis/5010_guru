@@ -21,7 +21,8 @@ if util.check_password(st.session_state, st.secrets):
     if "text_error" not in st.session_state:
         st.session_state.text_error = ""
     if "query" not in st.session_state:
-        st.session_state.query = "What is Circular 5010.1E?"
+        st.session_state.query = ("Example: Which local governments are required to submit their CAP to the cognizant "
+                                  "agency for indirect costs annually?")
     if "answer" not in st.session_state:
         st.session_state.answer = ""
     if "source" not in st.session_state:
