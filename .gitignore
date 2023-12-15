@@ -2,8 +2,8 @@
 .streamlit/
 .idea/
 .ipynb_checkpoints/
-data/
+pdf/
 venv/
-build_index.ipynb
-testing.py
+legacy/
+__pycache__/
 

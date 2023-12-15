@@ -1,0 +1,41 @@
+FILE_MAP = {
+    '5010-1e-circular-award-management-requirements-7-16-18.pdf': "https://www.transit.dot.gov/regulations-and-guidance/fta-circulars/award-management-requirements-circular-50101e",
+    'C9070_1G_FINAL_circular_4-20-15(1).pdf': "https://www.transit.dot.gov/regulations-and-guidance/fta-circulars/enhanced-mobility-seniors-and-individuals-disabilities",
+    'eeo-circular-c-47041a.pdf': "https://www.transit.dot.gov/regulations-and-guidance/civil-rights-ada/eeo-circular",
+    'Final_C_9300_1_Bpub.pdf': "https://www.transit.dot.gov/regulations-and-guidance/fta-circulars/capital-investment-program-guidance-and-application",
+    'Final_FTA_ADA_Circular_C_4710.1.pdf': "https://www.transit.dot.gov/regulations-and-guidance/fta-circulars/americans-disabilities-act-guidance-pdf",
+    'FINAL_FTA_circular9030.1E.pdf': "https://www.transit.dot.gov/regulations-and-guidance/fta-circulars/urbanized-area-formula-program-program-guidance-and",
+    'Final_FTA_C_5100_4-16-15.pdf': "https://www.transit.dot.gov/regulations-and-guidance/fta-circulars/bus-and-bus-facilities-program-guidance-and-application",
+    'FTA-Third-party-procurement-best-practices-webinar-transcript-12-13-2022.pdf': "https://www.transit.dot.gov/regulations-and-programs/fta-circulars/third-party-contracting-guidance-transcript",
+    'FTA_Circular_5300_published_02-28-15.pdf': "https://www.transit.dot.gov/regulations-and-guidance/fta-circulars/state-good-repair-grant-program-guidance-and-application",
+    'FTA_Circular_9040_1Gwith_index_-_Final_Revised_-_vm_10-15-14(1).pdf': "https://www.transit.dot.gov/regulations-and-guidance/fta-circulars/formula-grants-rural-areas-program-guidance-and-application",
+    'FTA_Cir_6100.1E.docx_4.08.2015_(2)_0.pdf': "https://www.transit.dot.gov/regulations-and-guidance/fta-circulars/research-technical-assistance-and-training-program",
+    'FTA_C_5800.1SSMP.pdf': "https://www.transit.dot.gov/regulations-and-guidance/fta-circulars/safety-and-security-management-guidance-major-capital",
+    'FTA_EJ_Circular_7.14-12_FINAL.pdf': "https://www.transit.dot.gov/regulations-and-guidance/fta-circulars/environmental-justice-policy-guidance-federal-transit",
+    'FTA_Title_VI_FINAL.pdf': "https://www.transit.dot.gov/regulations-and-guidance/fta-circulars/title-vi-requirements-and-guidelines-federal-transit",
+    'Joint-Development-Circular-C-7050-1B.pdf': "https://www.transit.dot.gov/funding/funding-finance-resources/joint-development/joint-development-circular-c-70501b",
+    'program-guidance-metropolitan-planning-and-state-planning-and-research-c81001d.pdf': "https://www.transit.dot.gov/regulations-and-guidance/fta-circulars/program-guidance-metropolitan-planning-and-state-planning-a-0",
+    'Third Party Contracting Guidance (Circular 4220.1F).pdf': "https://www.transit.dot.gov/regulations-and-guidance/fta-circulars/third-party-contracting-guidance",
+    'UMTA_C_9500.1.pdf': "https://www.transit.dot.gov/regulations-and-guidance/fta-circulars/intergovernmental-review-fta-planning-capital-and-operating"
+}
+
+CIRCULAR_MAP = {
+    '5010-1e-circular-award-management-requirements-7-16-18.pdf': "C 5010.1E Award Management Requirements",
+    'C9070_1G_FINAL_circular_4-20-15(1).pdf': "C 9070.1G Enhanced Mobility of Seniors and Individuals with Disabilities Program Guidance and Application Instructions",
+    'eeo-circular-c-47041a.pdf': "C 4704.1A Equal Employment Opportunity (EEO) Act Guidance",
+    'Final_C_9300_1_Bpub.pdf': "C 9300.1B Capital Investment Program Guidance and Application Instructions",
+    'Final_FTA_ADA_Circular_C_4710.1.pdf': "C 4710.1 Americans with Disabilities Act Guidance",
+    'FINAL_FTA_circular9030.1E.pdf': "C 9030.1E Urbanized Area Formula Program: Program Guidance and Application Instructions",
+    'Final_FTA_C_5100_4-16-15.pdf': "C 5100.1 Bus and Bus Facilities Program: Guidance and Application Instructions",
+    'FTA-Third-party-procurement-best-practices-webinar-transcript-12-13-2022.pdf': "Third Party Contracting Guidance Webinar Transcript",
+    'FTA_Circular_5300_published_02-28-15.pdf': "C 5300.1 State of Good Repair Grant Program: Guidance and Application Instructions",
+    'FTA_Circular_9040_1Gwith_index_-_Final_Revised_-_vm_10-15-14(1).pdf': "C 9040.1G Formula Grants for Rural Areas: Program Guidance and Application Instructions",
+    'FTA_Cir_6100.1E.docx_4.08.2015_(2)_0.pdf': "C 6100.1E Research, Technical Assistance and Training Program: Application Instructions and Program Management Guidelines",
+    'FTA_C_5800.1SSMP.pdf': "C 5800.1 Safety and Security Management Guidance for Major Capital Projects",
+    'FTA_EJ_Circular_7.14-12_FINAL.pdf': "C 4703.1 Environmental Justice Policy Guidance For Federal Transit Administration Recipients",
+    'FTA_Title_VI_FINAL.pdf': "C 4702.1B Title VI Requirements and Guidelines for Federal Transit Administration Recipients",
+    'Joint-Development-Circular-C-7050-1B.pdf': "C 7050.1B Guidance on Joint Development",
+    'program-guidance-metropolitan-planning-and-state-planning-and-research-c81001d.pdf': "C 8100.1D Program Guidance for Metropolitan Planning and State Planning and Research Program Grants",
+    'Third Party Contracting Guidance (Circular 4220.1F).pdf': "C 4220.1F Third Party Contracting Guidance",
+    'UMTA_C_9500.1.pdf': "C 9500.1 Intergovernmental Review of FTA Planning, Capital and Operating Programs and Activities"
+}
